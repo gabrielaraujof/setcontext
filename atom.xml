@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[SetContext]]></title>
   <link href="http://gabrielaraujof.github.io/setcontext/atom.xml" rel="self"/>
   <link href="http://gabrielaraujof.github.io/setcontext/"/>
-  <updated>2015-06-03T14:10:46-03:00</updated>
+  <updated>2015-06-03T16:19:15-03:00</updated>
   <id>http://gabrielaraujof.github.io/setcontext/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[SetContext]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
